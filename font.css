@@ -1,0 +1,13 @@
+@font-face{
+	font-family: "bo";
+	src:url(Bellota-Bold.ttf); 
+
+}
+@font-face{
+	font-family: "it";
+	src:url(Bellota-Italic.ttf);
+}
+@font-face{
+	font-family:"li";
+	src:url(Bellota-Light.ttf);
+}
